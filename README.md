@@ -22,3 +22,15 @@ MAIL_SECURE=false
 
 
 Remplacer MAIL_USER et MAIL_PASS par le compte que ethereal mail donne.
+
+Effectuer les commandes :
+npm i @hapi/hapi
+npm i
+npm install debug
+
+
+Allez sur :
+http://localhost:3000/documentation
+
+Se connecter avec User-> login 
+Prendre le token JWT et le copier dans Authorize avec Bearer devant.
